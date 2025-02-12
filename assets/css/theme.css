@@ -44234,3 +44234,7 @@ blockquote:not(.blockquote) p {
 .btn-icon-search{
   border: 2px solid #fed700 ;
 }
+footer .input-group{
+    width: 60%;
+    margin: auto;
+}
