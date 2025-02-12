@@ -37437,6 +37437,8 @@ screen and (-ms-high-contrast: none) {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
+  width:80%;
+  margin:auto;
 }
 
 .bg-img-hero-bottom {
